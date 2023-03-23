@@ -6,3 +6,12 @@
 
 
 [Espressif DevCon22 Talks](https://youtube.com/playlist?list=PLOzvoM7_Knrc6o-n25jYuXRB2T8UKk1NU)
+
+
+---
+by Kevin A<br>
+ESP-IDF Build System & CMake Overview [video](https://youtu.be/pMp34wPHoi0)<br>
+ESP32 Application Development Using the ESP IDF [playlist](https://youtube.com/playlist?list=PLp2zie0oiqdc7PBOGzxPjtYmX6fd0M-Gc)<br>
+IoT Application Development with the ESP32 Using the ESP-IDF [Udemy course](https://www.udemy.com/course/iot-application-development-with-the-esp32-using-the-esp-idf/)<br>
+
+
