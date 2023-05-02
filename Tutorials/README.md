@@ -15,6 +15,6 @@ ESP32 Application Development Using the ESP IDF [playlist](https://youtube.com/p
 IoT Application Development with the ESP32 Using the ESP-IDF [Udemy course](https://www.udemy.com/course/iot-application-development-with-the-esp32-using-the-esp-idf/)<br>
 
 ---
-[esp32tutorials.com - ESP32 ESP-IDF tutorials](https://esp32tutorials.com/)<br>
+[esp32tutorials.com - ESP32 ESP-IDF tutorials - using VS Code](https://esp32tutorials.com/)<br>
 [BME280 with ESP32 ESP-IDF and Display Readings on OLED](https://esp32tutorials.com/bme280-esp32-esp-idf-oled/)<br>
 
